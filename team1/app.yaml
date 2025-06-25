@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deploymentddddd
+kind: Deployment
 metadata:
   name: my-deployment
   namespace: team1
